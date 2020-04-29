@@ -1,12 +1,14 @@
-
 {
-  "posts": [
+  "data": [
     {
-      "id": 1,
-      "title": "hello"
+      "partnerId" : 0,
+      "partnerName" : "waste-puke3",
+      "ssoSiteId" : "stretch-yl4zl",
+      "disabledUrl": 8,
+      "enabled": false,
+      "macKey": 8,
+      "modifiedDate": "week-n9by8",
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+ 
 }
