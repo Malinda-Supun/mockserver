@@ -2,7 +2,14 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
+      "partnerId": 0,
+      "partnerName": "wastepuke3",
+      "ssoSiteId": "stretchyl4zl",
+      "disabledUrl": 8,
+      "enabled": false,
+      "macKey": 8,
+      "modifiedDate": "week-n9by8"
     }
   ],
   "profile": {
