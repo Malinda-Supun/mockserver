@@ -1,7 +1,6 @@
 
 {
-  abc:[
-    {
+  abc:{
         partnerId : 0,
         partnerName : "waste-puke3",
         ssoSiteId: "stretch-yl4zl",
@@ -10,6 +9,6 @@
         macKey: 8,
         modifiedDate: "week-n9by8",
   }
-  ]
+  
 
 }
